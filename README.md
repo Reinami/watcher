@@ -1,3 +1,8 @@
+This is a fork that will stay up forever because it is used by some people.
+
+What follows is the original readme.
+
+
 # watcher
 
 [![Build Status](https://travis-ci.org/radovskyb/watcher.svg?branch=master)](https://travis-ci.org/radovskyb/watcher)
